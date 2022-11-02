@@ -16,7 +16,7 @@
 <tr>
   <td><a href="https://open.kattis.com/problems/tram">Tram</a></td>
   <td>C++</td>
-  <td></td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Tram">Go</a></td>
 </tr>
 </tbody>
 </table>
