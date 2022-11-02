@@ -11,17 +11,17 @@
 <tr>
   <td><a href="https://open.kattis.com/problems/boatparts">Boat Parts</a></td>
   <td>C++</td>
-  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Boat%20Parts">-></a></td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Boat%20Parts">➔</a></td>
 </tr>
 <tr>
   <td><a href="https://open.kattis.com/problems/tram">Tram</a></td>
   <td>C++</td>
-  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Tram">-></a></td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Tram">➔</a></td>
 </tr>
 <tr>
   <td><a href="https://open.kattis.com/problems/qaly">Quality-Adjusted Life-Year</a></td>
   <td>C++</td>
-  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Quality-Adjusted%20Life-Year">-></a></td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Quality-Adjusted%20Life-Year">➔</a></td>
 </tr>
 </tbody>
 </table>
