@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boat Parts", "src\Boat Part
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tram", "src\Tram\Tram.vcxproj", "{4B30B442-1E7F-42A5-BFC6-F220D1DB459F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quality-Adjusted Life-Year", "src\Quality-Adjusted Life-Year\Quality-Adjusted Life-Year.vcxproj", "{515CF5A5-218A-4184-B24D-E0E40CF38269}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +35,14 @@ Global
 		{4B30B442-1E7F-42A5-BFC6-F220D1DB459F}.Release|x64.Build.0 = Release|x64
 		{4B30B442-1E7F-42A5-BFC6-F220D1DB459F}.Release|x86.ActiveCfg = Release|Win32
 		{4B30B442-1E7F-42A5-BFC6-F220D1DB459F}.Release|x86.Build.0 = Release|Win32
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Debug|x64.ActiveCfg = Debug|x64
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Debug|x64.Build.0 = Debug|x64
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Debug|x86.ActiveCfg = Debug|Win32
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Debug|x86.Build.0 = Debug|Win32
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Release|x64.ActiveCfg = Release|x64
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Release|x64.Build.0 = Release|x64
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Release|x86.ActiveCfg = Release|Win32
+		{515CF5A5-218A-4184-B24D-E0E40CF38269}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +50,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{CA4E544C-2C0E-48F1-9819-CCA017E5F8D1} = {AFBFFE07-9E43-48EB-B54E-26387B957CA1}
 		{4B30B442-1E7F-42A5-BFC6-F220D1DB459F} = {AFBFFE07-9E43-48EB-B54E-26387B957CA1}
+		{515CF5A5-218A-4184-B24D-E0E40CF38269} = {AFBFFE07-9E43-48EB-B54E-26387B957CA1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A5115EA5-0982-49D5-959A-B819E410B8F1}
