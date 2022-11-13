@@ -23,5 +23,10 @@
   <td>C++</td>
   <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/master/src/Quality-Adjusted%20Life-Year">➔</a></td>
 </tr>
+<tr>
+  <td><a href="https://open.kattis.com/problems/moneymatters">https://open.kattis.com/problems/moneymatters</a></td>
+  <td>C++</td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/development/src/MoneyMatters">➔</a></td>
+</tr>
 </tbody>
 </table>
