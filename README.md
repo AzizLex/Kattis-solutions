@@ -29,6 +29,11 @@
   <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/development/src/MoneyMatters">➔</a></td>
 </tr>
 <tr>
+  <td><a href="https://open.kattis.com/problems/judgingmoose">Judging Moose</a></td>
+  <td>C#</td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/development/src/JudgingMoose">➔</a></td>
+</tr>
+<tr>
   <td><a href="https://open.kattis.com/problems/addingwords">Adding Words</a></td>
   <td>C#</td>
   <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/development/src/AddingWords">➔</a></td>
