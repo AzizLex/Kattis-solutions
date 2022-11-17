@@ -38,5 +38,10 @@
   <td>C#</td>
   <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/development/src/AddingWords">➔</a></td>
 </tr>
+<tr>
+  <td><a href="https://open.kattis.com/problems/imagedecoding">Image Decoding</a></td>
+  <td>C#</td>
+  <td><a href="https://github.com/AzizLex/Kattis-solutions/tree/development/src/ImageDecoding">➔</a></td>
+</tr>
 </tbody>
 </table>
